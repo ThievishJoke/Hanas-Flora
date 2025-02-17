@@ -1,0 +1,9 @@
+{
+  "asset_name": "magenta_dye",
+  "description": {
+    "color": "#C74EBD",
+    "translate": "trim_material.hanas_flora.magenta_dye"
+  },
+  "ingredient": "minecraft:magenta_dye",
+  "item_model_index": 0.615
+}

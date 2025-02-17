@@ -1,0 +1,9 @@
+{
+  "asset_name": "yellow_dye",
+  "description": {
+    "color": "#FED83D",
+    "translate": "trim_material.hanas_flora.yellow_dye"
+  },
+  "ingredient": "minecraft:yellow_dye",
+  "item_model_index": 0.613
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "gray_dye",
+  "description": {
+    "color": "#474F52",
+    "translate": "trim_material.hanas_flora.gray_dye"
+  },
+  "ingredient": "minecraft:gray_dye",
+  "item_model_index": 0.609
+}

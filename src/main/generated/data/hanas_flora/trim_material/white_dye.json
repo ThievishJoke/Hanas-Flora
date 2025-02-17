@@ -1,0 +1,9 @@
+{
+  "asset_name": "white_dye",
+  "description": {
+    "color": "#F9FFFE",
+    "translate": "trim_material.hanas_flora.white_dye"
+  },
+  "ingredient": "minecraft:white_dye",
+  "item_model_index": 0.617
+}

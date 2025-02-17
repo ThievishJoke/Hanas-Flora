@@ -1,0 +1,9 @@
+{
+  "asset_name": "light_gray_dye",
+  "description": {
+    "color": "#9D9D97",
+    "translate": "trim_material.hanas_flora.light_gray_dye"
+  },
+  "ingredient": "minecraft:light_gray_dye",
+  "item_model_index": 0.608
+}

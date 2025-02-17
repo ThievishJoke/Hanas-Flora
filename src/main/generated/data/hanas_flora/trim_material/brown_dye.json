@@ -1,0 +1,9 @@
+{
+  "asset_name": "brown_dye",
+  "description": {
+    "color": "#835432",
+    "translate": "trim_material.hanas_flora.brown_dye"
+  },
+  "ingredient": "minecraft:brown_dye",
+  "item_model_index": 0.604
+}

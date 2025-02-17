@@ -1,0 +1,9 @@
+{
+  "asset_name": "green_dye",
+  "description": {
+    "color": "#5E7C16",
+    "translate": "trim_material.hanas_flora.green_dye"
+  },
+  "ingredient": "minecraft:green_dye",
+  "item_model_index": 0.603
+}

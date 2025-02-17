@@ -1,0 +1,9 @@
+{
+  "asset_name": "pink_dye",
+  "description": {
+    "color": "#F38BAA",
+    "translate": "trim_material.hanas_flora.pink_dye"
+  },
+  "ingredient": "minecraft:pink_dye",
+  "item_model_index": 0.611
+}

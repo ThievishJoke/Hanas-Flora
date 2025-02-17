@@ -1,0 +1,9 @@
+{
+  "asset_name": "orange_dye",
+  "description": {
+    "color": "#F9801D",
+    "translate": "trim_material.hanas_flora.orange_dye"
+  },
+  "ingredient": "minecraft:orange_dye",
+  "item_model_index": 0.616
+}

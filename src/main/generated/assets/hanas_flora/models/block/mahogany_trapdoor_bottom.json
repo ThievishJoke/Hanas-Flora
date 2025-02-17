@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_trapdoor_bottom",
+  "textures": {
+    "texture": "hanas_flora:block/mahogany_trapdoor"
+  }
+}

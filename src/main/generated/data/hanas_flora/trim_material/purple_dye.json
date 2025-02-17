@@ -1,0 +1,9 @@
+{
+  "asset_name": "purple_dye",
+  "description": {
+    "color": "#8932B8",
+    "translate": "trim_material.hanas_flora.purple_dye"
+  },
+  "ingredient": "minecraft:purple_dye",
+  "item_model_index": 0.606
+}

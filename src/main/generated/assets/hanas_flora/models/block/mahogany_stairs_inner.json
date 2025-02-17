@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "hanas_flora:block/mahogany_planks",
+    "side": "hanas_flora:block/mahogany_planks",
+    "top": "hanas_flora:block/mahogany_planks"
+  }
+}

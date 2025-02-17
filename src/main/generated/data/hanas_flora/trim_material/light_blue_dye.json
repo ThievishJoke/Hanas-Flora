@@ -1,0 +1,9 @@
+{
+  "asset_name": "light_blue_dye",
+  "description": {
+    "color": "#3AB3DA",
+    "translate": "trim_material.hanas_flora.light_blue_dye"
+  },
+  "ingredient": "minecraft:light_blue_dye",
+  "item_model_index": 0.614
+}

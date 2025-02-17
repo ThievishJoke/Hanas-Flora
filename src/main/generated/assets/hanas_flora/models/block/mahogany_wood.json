@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hanas_flora:block/mahogany_log",
+    "side": "hanas_flora:block/mahogany_log"
+  }
+}

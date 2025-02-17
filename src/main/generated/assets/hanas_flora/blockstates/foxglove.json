@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "hanas_flora:block/foxglove_bottom"
+    },
+    "half=upper": {
+      "model": "hanas_flora:block/foxglove_top"
+    }
+  }
+}

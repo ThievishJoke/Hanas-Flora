@@ -1,0 +1,8 @@
+{
+  "asset_id": "hanas_flora:flora",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.hanas_flora.flora"
+  },
+  "template_item": "hanas_flora:flora_armor_trim_smithing_template"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "lime_dye",
+  "description": {
+    "color": "#80C71F",
+    "translate": "trim_material.hanas_flora.lime_dye"
+  },
+  "ingredient": "minecraft:lime_dye",
+  "item_model_index": 0.612
+}
