@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Hanas Florals",
+        "description": "Adds dozens of fresh new plants to minecraft",
+        "icon": {
+            "id": "hanas_flora:violet_aubrieta"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "hanas_mods_common:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
